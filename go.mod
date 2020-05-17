@@ -1,4 +1,4 @@
-module github.com/duladissa/go-subword-nmt
+module github.com/iAmPlus/go-subword-nmt
 
 go 1.13
 
